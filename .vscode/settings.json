@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "det.h": "c",
+        "port.h": "c"
+    }
+}
